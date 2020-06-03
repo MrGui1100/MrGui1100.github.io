@@ -53,6 +53,7 @@ password: ****************
 
 Este comando irá gerar o HTML estático das paginas e fará automaticamente o commit para o gitHub Pages, que funciona como nosso servidor.
 
+Site em produção: https://mrgui1100.github.io/server_ad/file_sharing/
 
 
 
